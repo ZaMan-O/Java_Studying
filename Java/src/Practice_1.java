@@ -32,5 +32,7 @@ public class Practice_1 {
 
         long x2 = 5;
         int y2 = (int)x2;
+        System.out.println(y);
+        System.out.println(y2);
     }
 }
